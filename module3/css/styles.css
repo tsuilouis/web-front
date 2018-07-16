@@ -1,0 +1,39 @@
+body {
+  font-size: 16px;
+}
+
+#header-nav {
+	background-color: darkgrey;
+}
+
+.navbar-brand h1 { /* Company name */
+  color: #000000;
+  font-size: 1.5em;
+  line-height: .75;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#nav-list a {
+	color: #000000;
+	text-align: center;
+}
+
+#nav-list a:hover {
+	background: #e7e7e7;
+}
+
+#page-heading {
+	font-size: 1.5em;
+	margin-bottom: 20px;
+}
+
+.section-heading {
+	font-weight: bold;
+}
+
+section {
+	background-color: darkgrey;
+	height: 1600px; /* to test scrolling */
+	margin-bottom: 10px;
+}
